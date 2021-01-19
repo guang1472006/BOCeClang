@@ -1,0 +1,9 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'BOCeClang' do
+
+  pod 'BOCeClang', :path => 'https://github.com/guang1472006/BOCeClang.git'
+
+end
